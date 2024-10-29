@@ -1,12 +1,12 @@
 :root {
-    --text-color: #DBE4EF;
+    --text-color: #fff3fd;
     --card-front-color: #fa5ab2;
-    --card-back-color: #500505;
+    --card-back-color: #c00707;
 }
 
 body {
     background: url('img/bg-desktop.jpg');
-    font-family: Bai Jamjuree;
+    font-family: Mitr;
 }
 
 #container {
