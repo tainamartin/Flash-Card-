@@ -30,24 +30,24 @@ criaCartao(
 
 
 criaCartao(
-    'lingua ingles',
+    'lingua inglesa',
     'Como se diz praia em inglês?',
-    'Oi em ingles é BEACH (SALU)'
+    'Oi em ingles é BEACH (BÍTHI)'
 ) 
 
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz OI em francês?',
-    'Oi em ingles é SALUT (SALU)'
+    'Lingua francesa',
+    'Como se diz THAU em francês?',
+    'Oi em ingles é AU REVOIR  (Ó RÊVOA)'
 ) 
 
 
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz OI em francês?',
-    'Oi em ingles é SALUT (SALU)'
+    'Como se diz ADEUS em ingles?',
+    'Oi em ingles é BYE (BAI)'
 ) 
 
 
